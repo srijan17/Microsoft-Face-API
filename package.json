@@ -1,0 +1,19 @@
+{
+  "name": "face-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "fs": "0.0.1-security",
+    "oxford-face-api": "^0.1.1",
+    "project-oxford": "^1.7.0",
+    "request": "^2.79.0"
+  }
+}
